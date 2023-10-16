@@ -4,6 +4,7 @@ This Repo deals with in and out of snowflake details related to SnowPro Certific
 ## Snowflake Documentation
 
 1. https://docs.snowflake.com/en/guides-overview
+2. https://www.snowflake.com/en/
 
 ### Snowflake Certifcations
 
